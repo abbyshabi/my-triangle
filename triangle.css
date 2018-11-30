@@ -93,3 +93,12 @@ p{
      color:#4d2600;
 }
  
+
+#aValue, #bValue, #cValue{
+	padding: 5px;
+	font-size: 20px;
+} 
+#answer{
+	padding: 5px;
+	font-size: 20px;
+}
